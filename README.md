@@ -1273,3 +1273,9 @@
 | [Mario's Arena 2025](https://forums.bzflag.org/viewtopic.php?t=20877) | [RufusT](https://forums.bzflag.org/memberlist.php?mode=viewprofile&u=60461) | `2025-07-18` |
 | [Jumbled Variables](https://forums.bzflag.org/viewtopic.php?t=20925) | [Loymdayddaud](https://forums.bzflag.org/memberlist.php?mode=viewprofile&u=60438) | `2025-10-04` |
 | [Geodesic dome](https://forums.bzflag.org/viewtopic.php?t=20963) | [red rider](https://forums.bzflag.org/memberlist.php?mode=viewprofile&u=60550) | `2025-11-22` |
+| [MazeRunner FFA](https://forums.bzflag.org/viewtopic.php?t=21070) | [ahs3](https://forums.bzflag.org/memberlist.php?mode=viewprofile&u=23895) | `2026-04-09` |
+
+
+
+
+
